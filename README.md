@@ -100,4 +100,4 @@ Démo : https://journalisme.ulb.ac.be/?post_type=database&p=13770&preview=true
 
 Autre exemple : https://journodev.tech/covid19/
 
-Zip des fichiers : journalisme.ulb.ac.be/exdata.zip
+Zip des fichiers : https://journalisme.ulb.ac.be/exdata.zip

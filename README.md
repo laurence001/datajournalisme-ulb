@@ -5,7 +5,7 @@ Rappel : calculs de base
 * Ajouter 20% à 25 =  25*1,20 = 30
 * Calculer un pourcentage (25 sur 50) = 25/50*100 = 50%
 
-pp.71-15 du syllabus
+pp.71-75 du syllabus
 
 ## Scraping
 

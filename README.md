@@ -1,4 +1,4 @@
-# Exercices pratique datajournalisme
+# Exercices pratiques datajournalisme
 
 Rappel : calculs de base
 

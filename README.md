@@ -53,6 +53,8 @@ https://statbel.fgov.be/fr/themes/population
 
 ### ...et ressources
 
+Hôpitaux : https://www.health.belgium.be/fr/sante/organisation-des-soins-de-sante/hopitaux/chiffres-et-rapports
+
 Calculateur : https://covidtracker.fr/calculateur-risque-covid/
 
 Déficit en données : https://datadeficits.firstdraftnews.org/?utm_content=bufferb05f3&utm_medium=social&utm_source=twitter.com&utm_campaign=ejcsocia

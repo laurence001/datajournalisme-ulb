@@ -1,4 +1,4 @@
-# Exercices pratique datajournalisme, 27/10/20
+# Exercices pratique datajournalisme
 
 Rappel : calculs de base
 

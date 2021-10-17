@@ -42,7 +42,7 @@ https://www.google.com/search?client=firefox-b-d&q=donn%C3%A9es+coronavirus+mond
 Extraire un fichier PDF : Tabula
 Exercice avec le bulletin épidémiologique Sciensano : https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjDrbTV1tLsAhWEMewKHcsuCdIQFjABegQIBhAC&url=https%3A%2F%2Fcovid-19.sciensano.be%2Fsites%2Fdefault%2Ffiles%2FCovid19%2FDerni%25C3%25A8re%2520mise%2520%25C3%25A0%2520jour%2520de%2520la%2520situation%2520%25C3%25A9pid%25C3%25A9miologique.pdf&usg=AOvVaw3uvitqRJsYrbBftzaRPwcz
 
-Voir aussi pages xx du syllabus : web scraping avec Chrome et Firefox
+Voir aussi syllabus : web scraping avec Chrome et Firefox
 
 https://github.com/laurence001/datajournalisme-R/blob/main/datajournalisme_ULB_21-22_compressed.pdf
 

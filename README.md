@@ -1,13 +1,27 @@
 # Exercices pratiques datajournalisme
 
-Rappel : calculs de base
+Exercice avec les données de Sciensano : https://epistat.wiv-isp.be/covid/
 
-* Ajouter 20% à 25 =  25*1,20 = 30
-* Calculer un pourcentage (25 sur 50) = 25/50*100 = 50%
+## Etapes
 
-pp.71-75 du syllabus
+•	Collecter les données
+•	Vérifier les données récoltées (fiabilité, précision)
+•	Nettoyer le(s) jeu(x) de données
+•	Contextualiser et analyser les données
+•	Visualisation (analyse)
+•	Traitement journalistique
 
-## Scraping
+## Angler son récit en fonction de l'analyse des données
+
+•	A quel point le problème est important ?
+•	Qu'est-ce qui change ?
+•	Quelle est la meilleure performance observée ? La moins bonne ?
+•	Comment les valeurs sont distribuées ?
+•	Quelle exploration de données possibles ?
+•	Quelles sont les relations entre les données ?
+•	Puis-je y confronter d'autres jeux de données pour faire émerger de nouveaux constats ?
+
+## Scraping (pp. 94-101)
 
 Web scraping avec Outwit Hub, limitation : 100 lignes en version gratuite
 
@@ -17,11 +31,19 @@ https://www.google.com/search?client=firefox-b-d&q=donn%C3%A9es+coronavirus+mond
 Extraire un fichier PDF : Tabula
 Exercice avec le bulletin épidémiologique Sciensano : https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjDrbTV1tLsAhWEMewKHcsuCdIQFjABegQIBhAC&url=https%3A%2F%2Fcovid-19.sciensano.be%2Fsites%2Fdefault%2Ffiles%2FCovid19%2FDerni%25C3%25A8re%2520mise%2520%25C3%25A0%2520jour%2520de%2520la%2520situation%2520%25C3%25A9pid%25C3%25A9miologique.pdf&usg=AOvVaw3uvitqRJsYrbBftzaRPwcz
 
-pp.85-16 + 90-91 du syllabus
+Voir aussi pages xx du syllabus : web scraping avec Chrome et Firefox
 
-## Manipulations de base en Excel
+https://github.com/laurence001/datajournalisme-R/blob/main/datajournalisme_ULB_21-22_compressed.pdf
 
-Exercice avec les données de Sciensano : https://epistat.wiv-isp.be/covid/
+## Nettoyage de données avec Open Refine (pp. 104-113)
+
+https://journalisme.ulb.ac.be/datatechnique/ 
+
+Voir aussi : Guide Quartz pour résoudre la qualit des données
+
+https://journodev.tech/le-guide-de-quartz-pour-resoudre-les-problemes-de-qualite-des-donnees/
+
+## Manipulations de base en Excel (pp. 113-119)
 
 * importer un fichier CSV (séparateur de virgule, données)
 * geler des lignes ou colonnes (affichage)
@@ -34,12 +56,17 @@ Exercice avec les données de Sciensano : https://epistat.wiv-isp.be/covid/
 * supprimer des doublons (données)
 * tableau croisé dynamique : pour comparer x variables (tableaux complexes, inertion)
 
+## Visualiser (pp. 130-132)
 
-pp. 104-109 du syllabus
+Avec Datawrapper ou Flourish (graphiques - attention à choisir la représentation visuelle la plus appropriée - ou carte)
 
-## Workbenchata
+https://www.datawrapper.de/
 
-pp.87-88 + 94-96  du syllabus
+https://flourish.studio/
+
+Code embed récupéré : à coller en mode texte dans Wordpress (différent du mode visuel)
+
+*D'autres ressources possibles pour la vialisation : rawgraph.io, infographies explicatives (Infogram, Thinglink, Genially, Canvas), voir https://journalisme.ulb.ac.be/datatechnique/
 
 ## Sources...
 
@@ -64,42 +91,3 @@ Data Commons : données-clés par pays https://datacommons.org/place/country/BEL
 Ressources pour journalistes en Europe : https://www.europeandatajournalism.eu/eng/Resources-for-Journalists
 
 Données clés en Europe : https://ec.europa.eu/eurostat/en/web/products-digital-publications/-/KS-01-20-130
-
-## Pistes
-
-= se poser des questions, attention aux comparaisons (ramener à un taux par 100.000 habitants pour comparer ce qui est comparable ou pour la Belgique, au taux de positivité par nombre de tests réalisés)
-
-Comment la situation a-t-elle évolué en Europe ? Les tendances en Belgique sont-elles observés partout ?
-
-La Suède est-elle mauvaise élève par rapport à la Belgique ? 
-
-En quoi la deuxième vague serait plus problématique ?
-
-En Flandre, la situation est-elle moins grave qu'en Wallonie et à Bruxelles ?
-
-A l'échelle mondiale, quel pays s'en sort le mieux ? Lequel s'en sort le moins bien ?
-
-Les jeunes sont-ils épargnés ?
-
-A quel point les personnes âgées sont encore touchées ?
-
-Attention : importance de la mise en contexte (évolution de la politique des tests)
-
-## Visualiser
-
-Avec Datawrapper ou Flourish (graphiques - attention à choisir la représentation visuelle la plus appropriée - ou carte)
-
-Code embed récupéré : à coller en mode texte dans Wordpress (différent du mode visuel)
-
-pp.118-120 du syllabus
-
-## Edition WordPress
-
-Un post-type : Récits data (permet de visualiser les données sous forme de tableau car les cartes sur mobile sont souvent peu lisibles)
-
-Démo : https://journalisme.ulb.ac.be/?post_type=database&p=13770&preview=true
-(il faut être connecté)
-
-Autre exemple : https://journodev.tech/covid19/
-
-Zip des fichiers : https://journalisme.ulb.ac.be/exdata.zip

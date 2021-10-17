@@ -5,20 +5,31 @@ Exercice avec les données de Sciensano : https://epistat.wiv-isp.be/covid/
 ## Etapes
 
 •	Collecter les données
+
 •	Vérifier les données récoltées (fiabilité, précision)
+
 •	Nettoyer le(s) jeu(x) de données
+
 •	Contextualiser et analyser les données
+
 •	Visualisation (analyse)
+
 •	Traitement journalistique
 
 ## Angler son récit en fonction de l'analyse des données
 
 •	A quel point le problème est important ?
+
 •	Qu'est-ce qui change ?
+
 •	Quelle est la meilleure performance observée ? La moins bonne ?
+
 •	Comment les valeurs sont distribuées ?
+
 •	Quelle exploration de données possibles ?
+
 •	Quelles sont les relations entre les données ?
+
 •	Puis-je y confronter d'autres jeux de données pour faire émerger de nouveaux constats ?
 
 ## Scraping (pp. 94-101)

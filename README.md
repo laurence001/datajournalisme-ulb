@@ -81,6 +81,8 @@ Code embed récupéré : à coller en mode texte dans Wordpress (différent du m
 
 *D'autres ressources possibles pour la vialisation : rawgraph.io, infographies explicatives (Infogram, Thinglink, Genially, Canvas), voir https://journalisme.ulb.ac.be/datatechnique/
 
+Palettes de couleurs : https://vis4.net/palettes/#/9|s|00429d,96ffea,ffffe0|ffffe0,ff005e,93003a|1|1
+
 ## Sources...
 
 https://epistat.wiv-isp.be/covid/

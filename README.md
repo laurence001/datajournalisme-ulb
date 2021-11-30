@@ -83,6 +83,23 @@ Code embed récupéré : à coller en mode texte dans Wordpress (différent du m
 
 Palettes de couleurs : https://vis4.net/palettes/#/9|s|00429d,96ffea,ffffe0|ffffe0,ff005e,93003a|1|1
 
+Data Color Picker: https://learnui.design/tools/data-color-picker.html
+
+Ressources et exemples : https://datajournalism.com/ 
+
+https://wedodata.fr/#datajournalisme
+
+https://www.youtube.com/user/datagueule
+
+https://informationisbeautiful.net/visualizations/covid-19-coronavirus-infographic-datapack/
+
+https://interactif.heidi.news/solutions.html
+
+https://www.newyorker.com/magazine/2021/06/21/when-graphs-are-a-matter-of-life-and-death?mbid=social_twitter&utm_brand=tny&utm_social-type=owned&utm_medium=social&utm_source=twitter
+
+https://www.numerama.com/sciences/730805-les-graphiques-sur-la-pandemie-de-covid-19-doivent-etre-manies-avec-prudence.html
+
+
 ## Sources...
 
 https://epistat.wiv-isp.be/covid/

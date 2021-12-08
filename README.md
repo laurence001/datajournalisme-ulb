@@ -71,6 +71,8 @@ https://journodev.tech/le-guide-de-quartz-pour-resoudre-les-problemes-de-qualite
 
 ## Visualiser (pp. 130-132)
 
+Dataviz Catalogue : https://datavizcatalogue.com/
+
 Avec Datawrapper ou Flourish (graphiques - attention à choisir la représentation visuelle la plus appropriée - ou carte)
 
 https://www.datawrapper.de/
